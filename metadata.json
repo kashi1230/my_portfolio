@@ -1,0 +1,9 @@
+
+{
+  "name": "Kashi Chourey - Production v2.0",
+  "description": "High-performance futuristic portfolio for Kashi Chourey, Junior Software Developer. Built with React, Tailwind, and Google Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
