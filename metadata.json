@@ -1,0 +1,6 @@
+{
+  "name": "Kashi's Developer Universe",
+  "description": "An immersive, interactive, game-like 3D portfolio and developer universe for Kashi, featuring interactive retro terminals, achievements, mini-games, and a robot guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
